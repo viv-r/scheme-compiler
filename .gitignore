@@ -1,2 +1,24 @@
+<<<<<<< HEAD
 .stack-work
 
+=======
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+>>>>>>> 3114b126c957cfcdb06c51cf8b140db6f0523278
