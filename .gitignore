@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-.stack-work
-
-=======
 dist
 dist-*
 cabal-dev
@@ -21,4 +17,3 @@ cabal.sandbox.config
 *.eventlog
 .stack-work/
 cabal.project.local
->>>>>>> 3114b126c957cfcdb06c51cf8b140db6f0523278
